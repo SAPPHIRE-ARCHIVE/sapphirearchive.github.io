@@ -31,7 +31,7 @@ paginate = 5
   [languages.en]
     title = "OzoneOC"
     subtitle = "My information, notes, and benchmarks."
-    keywords = ""
+    keywords = "overclocking"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
