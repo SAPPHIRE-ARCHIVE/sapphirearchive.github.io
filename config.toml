@@ -29,8 +29,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Test site"
-    subtitle = "A simple site"
+    title = "OzoneOC"
+    subtitle = "My information, notes, and benchmarks."
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -46,7 +46,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "Benber's test site"
+      logoText = "OzoneOC"
       logoHomeLink = "/"
     # or
     #
