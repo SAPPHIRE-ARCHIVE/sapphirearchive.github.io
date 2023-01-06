@@ -6,8 +6,6 @@ These notes are for memory overclocking Samsung B-Die on chips such as the 12700
 
 This is **not** a guide on how to overclock memory, it's only notes exclusive to Alderlake as it can be trickier than normal. If you want to learn how to OC memory, read the [MemTestHelper DDR4 OC Guide](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md) by by integralfx.
 
-Special thanks to users \_L_, ReZ, Mobama, Seby and QXE for helping.
-
 
 
 # Hardware
@@ -60,3 +58,7 @@ Special thanks to users \_L_, ReZ, Mobama, Seby and QXE for helping.
 
 ##### RTTs
 - RTTs should be at `80/60/80` for 2x8GB, or `80/60/120` for 4x8GB/2x16GB
+
+# Special Thanks
+
+Special thanks to users \_L_, ReZ, Mobama, Seby and QXE for helping.
