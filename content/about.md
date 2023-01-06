@@ -3,4 +3,6 @@ title: About
 cover: https://avatars.githubusercontent.com/u/45527519?v=4
 ---
 
-Yep.
+This site is used for storing information, and benchmarks about hardware, and is aimed to be useful for hardware enthusiasts or people new to PCs who want to learn more.
+
+### [My HWBot Profile](https://hwbot.org/user/ozone_3950/)
