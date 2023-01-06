@@ -4,12 +4,12 @@ title: Fans
 
 Case fans are more important than people believe they are and can tend to make a notable difference in thermal performance
 
-## Information
+# Information
 
-##### Static Pressure
+## Static Pressure
 Static pressure is the amount of pressure exerted in the direction of the fan is pushing the air, which will help it with cooling in situations with restrictive airflow, such as radiators. This will make fans that are optimised for static pressure perform better on radiators compared to ones that aren't.
 
-##### Bearings
+## Bearings
 Bearings are the ring-like mechanism which causes the fan to rotate. Like any mechanism, they do not last for ever, hence the metric "Meantime To Failiure" (MTTF).
 | Bearing | Note                          |
 | ------- | ----------------------------- |
