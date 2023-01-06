@@ -2,10 +2,7 @@
 title: Fans
 ---
 
-Here is a list of information about case fans.
-
-<img src="https://user-images.githubusercontent.com/91910634/184640593-f7436dae-931b-4e53-8517-11e291bd4999.png" width="600">
-
+Case fans are more important than people believe they are and can tend to make a notable difference in thermal performance
 
 ## Information
 
