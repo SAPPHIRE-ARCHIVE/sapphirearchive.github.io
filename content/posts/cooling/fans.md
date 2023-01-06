@@ -1,10 +1,10 @@
 ---
-title: Fan List
+title: Fans
 ---
 
-Here is a guide on buying case fans. A lot of fans will be covered for many different purposes and budgets. If you have any more suggestions, feel free to give your input.
+Here is a list of information about case fans.
 
-![image](https://user-images.githubusercontent.com/91910634/184640593-f7436dae-931b-4e53-8517-11e291bd4999.png)
+<img src="https://user-images.githubusercontent.com/91910634/184640593-f7436dae-931b-4e53-8517-11e291bd4999.png" width="600">
 
 
 ## Information
