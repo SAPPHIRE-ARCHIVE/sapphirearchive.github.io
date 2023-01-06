@@ -8,7 +8,7 @@ paginate = 5
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "content"
+  contentTypeName = "posts"
 
   # OS theme is default when not provided, but you can force it to "light" or "dark"
   defaultTheme = "dark"
@@ -61,4 +61,4 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "overclocking"
         name = "Overclocking"
-        url = "/content/overclocking"
+        url = "/overclocking"
