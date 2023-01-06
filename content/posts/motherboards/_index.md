@@ -1,5 +1,5 @@
 ---
-title: Cooling
-url: /cooling
-type: cooling
+title: Motherboards
+url: /motherboards
+type: motherboards
 ---
