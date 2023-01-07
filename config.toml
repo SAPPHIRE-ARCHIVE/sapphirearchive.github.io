@@ -4,6 +4,7 @@ languageCode = "en-us"
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "hello-friend"
 paginate = 5
+enableRobotsTXT = true
 
 [params]
   # dir name of your blog content (default is `content/posts`).
@@ -26,6 +27,10 @@ paginate = 5
   # Show full page content in RSS feed items
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
+
+
+[sitemap]
+  filename = 'sitemap.xml'
 
 [languages]
   [languages.en]
