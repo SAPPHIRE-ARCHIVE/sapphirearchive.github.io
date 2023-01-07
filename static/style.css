@@ -6,6 +6,9 @@
 .logo__cursor {
 	display: none;
 }
+.posts  {
+	max-width: 100%;
+}
 .post {
 	width: 800px;
 	max-width: 100%;
