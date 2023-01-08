@@ -2,8 +2,6 @@
 title: Fans
 ---
 
-Case fans are more important than people believe they are and can tend to make a notable difference in thermal performance
-
 ## Information
 
 ### Static Pressure
@@ -17,7 +15,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | HDB     | Hydro-Dynamic Bearing         |
 | FDB     | Fluid-Dynamic Bearing         |
 | DBB     | Dual-Ball Bearing             |
-| Vapo    | Maglev (Magnetic Levitation   |
+| Vapo    | Maglev (Magnetic Levitation)  |
 | Twister (Gen 1/2) | Enermax's own bearing|
 | SSO2    | Noctua's own bearing          |
 | NB-NanoSLI 2 | Blacknoise's own bearing |
