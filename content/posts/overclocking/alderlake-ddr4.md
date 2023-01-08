@@ -1,6 +1,5 @@
 ---
 title: Alderlake DDR4 Memory Overclocking
-date: 2022-15-08
 ---
 
 These notes are for memory overclocking Samsung B-Die on chips such as the 12700K or 12900K; higher end unlocked Alderlake chips with better IMCs.
