@@ -2,6 +2,7 @@
 
 .post {
     font-family: 'Roboto', sans-serif;
+    text-decoration: none;
 }
 .logo__cursor {
 	display: none;
