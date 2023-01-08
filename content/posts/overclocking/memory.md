@@ -2,11 +2,11 @@
 title: Memory Overclocking
 ---
 
-# Guides:
+## Guides:
 
 [MemTestHelper DDR4 OC Guide](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
 
-# Stress Tests
+## Stress Tests
 
 #### [TestMem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/)
 This is the best option for stressing DDR4 memory.
