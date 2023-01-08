@@ -1,5 +1,5 @@
 ---
-title: Overclocking
-url: /overclocking
-type: overclocking
+title: Articles
+url: /articles
+type: articles
 ---
