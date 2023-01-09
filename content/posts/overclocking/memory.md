@@ -8,15 +8,15 @@ title: Memory Overclocking
 
 ## Stress Tests
 
+#### [y-cruncher](http://www.numberworld.org/y-cruncher/#Download)
+- Run application and select "Component Stress Tester".
+- Disable all tests but N32, N64, VST - Then select "Start stress testing".
+- Run for 4 iterations. This is good at picking out errors that the main stress test may not., especially on Alderlake CPUs.
+
 #### [TestMem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/)
 This is the best option for stressing DDR4 memory.
 - Run and load the anta777 Extreme1 config, and make sure the application is running as admin for stressing memory.
 - 3 cycles is good enough to test individual timings while tightening, but prefferably try to get to 9 at least for the final stress test.
-
-#### [y-cruncher](http://www.numberworld.org/y-cruncher/#Download)
-- Run application and select "Component Stress Tester" (option 1).
-- Select "Start stress testing" (option 0).
-- Run for 4 iterations. This is good at picking out errors that the main stress test may not., especially on Alderlake CPUs.
 
 #### [Karhu](https://www.karhusoftware.com/ramtest/)
 This is the best option for stressing DDR5 memory, but keep in mind that you have to purchase a license to use it.
