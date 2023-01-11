@@ -23,7 +23,7 @@ title: Memory
 [B-Die Finder](https://benzhaomin.github.io/bdiefinder/)
 
 ## Architecture Specific
-[Alderlake DDR4](alderlake-ddr4)
+[Alderlake DDR4](#alderlake-ddr4)
 
 ## Alderlake DDR4
 
