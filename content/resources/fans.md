@@ -20,8 +20,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | SSO2    | Noctua's own bearing          |
 | NB-NanoSLI 2 | Blacknoise's own bearing |
 
-
-
+---
 
 ## Non-RGB Fans:
 
