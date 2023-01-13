@@ -17,11 +17,15 @@ title: Memory
   - [tRC](#trc)
   - [First Word Latency](#first-word-latency)
 
+---
+
 ## Basics
 
 #### [Understanding Frequency and Timings](https://www.tomshardware.com/reviews/pc-memory-ram-frequency-timings,6328.html)
 
 #### [DDR4 Memory Gear-Down Mode Explained](https://www.linkedin.com/pulse/what-ddr4-memory-gear-down-mode-barbara-aichinger)
+
+---
 
 ## ICs
 
@@ -60,6 +64,8 @@ title: Memory
 
 ##### [Samsung B-Die Finder](https://benzhaomin.github.io/bdiefinder/)
 
+---
+
 ## Architecture Specific Overclocking
 
 #### Alderlake DDR4 Overclocking
@@ -86,6 +92,8 @@ title: Memory
 #### Zen DDR4 Overclocking
 
 [Memory Overclocking on Zen](https://www.reddit.com/r/overclocking/comments/ahs5a2/demystifying_memory_overclocking_on_ryzen_oc/)
+
+---
 
 ## Latency In-Depth
 
@@ -114,6 +122,8 @@ tRC and tRAS relation: tRC and tRAS are two very related timings, and as mention
 #### First Word Latency
 
 Recently I noticed the addition of the 'First Word Latency' sorting category. Now all I really have to say is that this sorting category in it's current from is misnamed, what this category actually does is sorts the memory by the CAS latency in nanoseconds, which can easily be found by doing tCL/(effective transfer rate/2000). Example: 5000 cl18 = 18 / (5000/2000) = 7.2ns CAS latency. Now, for this next portion I'll be talking about reads and pulling data out of the ram, not writes. Since writes are based of tCWL which is much harder to find for different sticks. Actual first word latency how ever is not just CAS latency. To get a word out of the memory from idle the desired bank the data is in must be opened then the read command can be enacted which induces the burst. This entire sequence of events takes tRCD + tCL + BL clock cycles. tRCD = ACT to internal read or write delay time tCL = Internal read command to first data BL = Burst length, Burst length on DDR4 is always 8 bits of data, which takes 4 physical clock cycles due to DDR4's double data rate I/O bus. Example: https://imgur.com/a/mzHnX3b In this example tRCD and tCL are both 16 with the burst taking 4 clock cycles at 2400mt/s. Due to this, the first word latency is: First word latency = (tRCD + tCL + BL)/(effective transfer rate/2000) First word latency = (16 + 16 + 4)/(2400/2000) = 30ns This is much higher then CAS latency for this situation which is 13.33ns. Just wanted to let you guys know about this error, whether or not you guys fix it is not my call. What could be done to fix this error is to rename this sorting category to something such as 'CAS latency', 'Cas latency in time', etc. Or, you guys could change the equation to (tRCD + tCL + 4)/(effective transfer rate/2000).
+
+---
 
 ## PCBs
 
