@@ -6,6 +6,8 @@ title: Memory Overclocking
 
 #### [MemTestHelper DDR4 OC Guide](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
 
+---
+
 ## Stress Tests
 
 #### [y-cruncher](http://www.numberworld.org/y-cruncher/#Download)
