@@ -3,6 +3,7 @@ title: Processors
 ---
 
 ## Table of Contents
+
 - [Benchmarks](#benchmarks)
 - [Intel Microarchitecture](#intel-microarchitecture)
   - [Alderlake](#alderlake)
@@ -13,7 +14,8 @@ title: Processors
   - [Zen2](#zen2)
 
 ## Benchmarks:
-https://www.techpowerup.com/review/?category=Processors
+
+[TechPowerUp CPU Reviews](https://www.techpowerup.com/review/?category=Processors)
 
 ## Intel Microarchitecture
 
