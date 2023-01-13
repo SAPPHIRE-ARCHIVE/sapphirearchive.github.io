@@ -13,10 +13,14 @@ title: Processors
   - [Zen3](#zen3)
   - [Zen2](#zen2)
 
+---
+
 ## Benchmarks:
 
 #### [TechPowerUp CPU Reviews](https://www.techpowerup.com/review/?category=Processors)
 #### [Tom's Hardware CPU Reviews](https://www.tomshardware.com/uk/reviews)
+
+---
 
 ## Intel Microarchitecture
 
@@ -31,6 +35,8 @@ title: Processors
 #### [Skylate Microarchitecture Explained](https://pcper.com/2015/08/intel-skylake-processor-architecture-overview-scaling-from-tablets-to-servers/)
 
 ![image](https://user-images.githubusercontent.com/91910634/212296513-50c61987-8494-4e98-8a20-fef864c06e55.png)
+
+---
 
 ## AMD Microarchitecture
 
