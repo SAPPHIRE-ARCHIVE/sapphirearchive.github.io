@@ -2,29 +2,47 @@
 title: Fans
 ---
 
+## Table of Contents
+
+- [Information](#information)
+  - [Static Pressure](#static-pressure)
+  - [Bearings](#bearings)
+- [Non-RGB Fans](#non-rgb-fans)
+  - [120mm](#120mm)
+  - [140mm](#140mm)
+  - [40mm](#40mm)
+  - [80-92mm](#80-92mm)
+  - [180mm](#180mm)
+- [RGB Fans](#rgb-fans)
+  - [120mm RGB](#120mm-rgb)
+  - [140mm RGB](#140mm-rgb)
+
+---
+
 ## Information
 
 ### Static Pressure
 Static pressure is the amount of pressure exerted in the direction of the fan is pushing the air, which will help it with cooling in situations with restrictive airflow, such as radiators. This will make fans that are optimised for static pressure perform better on radiators compared to ones that aren't.
 
 ### Bearings
+
 Bearings are the ring-like mechanism which causes the fan to rotate. Like any mechanism, they do not last for ever, hence the metric "Meantime To Failiure" (MTTF).
-| Bearing | Note                          |
+| Bearing | Notes                         |
 | ------- | ----------------------------- |
 | Sleeve  | Avoid as much as possible, none of the fans on this list are sleeve
-| HDB     | Hydro-Dynamic Bearing         |
+| HDB     | Hydro-Dynamic Bearing.        |
 | FDB     | Fluid-Dynamic Bearing         |
 | DBB     | Dual-Ball Bearing             |
 | Vapo    | Maglev (Magnetic Levitation)  |
-| Twister (Gen 1/2) | Enermax's own bearing|
+| Twister (Gen 1/2) | Enermax's own bearing |
 | SSO2    | Noctua's own bearing          |
 | NB-NanoSLI 2 | Blacknoise's own bearing |
 
 ---
 
-## Non-RGB Fans:
+## Non-RGB Fans
 
-### 120mm:
+### 120mm
 
 | Name                        | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
@@ -49,7 +67,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | XPG VENTO PRO (GT Rebrand)  | DBB                         | 250,000h @ 25°C/60,000h @ 60°C| 25mm                        | Airflow/Static Pressure     |
 
 
-### 140mm:
+### 140mm
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
@@ -63,7 +81,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Thermaltake TOUGHFAN        | HDB                         | 40,000h @ 25°C                | 25mm                        | Airflow/Static Pressure     |
 
 
-### 40mm:
+### 40mm
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
@@ -72,7 +90,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Sunon Maglev                | Vapo                        | Unspecified                   | 20mm                        | Airflow/Static Pressure     |
 
 
-### 80/92mm:
+### 80-92mm
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
@@ -86,21 +104,21 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Thermalright TL-9015        | HDB                         | Unspecified                   | 15mm                        | Airflow                     |
 
 
-### 180mm+
+### 180mm
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | Silverstone AP181           | DBB                         | Unspecified                   | 32mm                        | Airflow/Static Pressure     |
 | Silverstone AP182           | DBB                         | Unspecified                   | 32mm                        | Airflow/Static Pressure     |
 | Silverstone AP183           | DBB                         | 70,000h @ Unspecified         | 32mm                        | Airflow/Static Pressure     |
-##### Note: If 200mm fans are needed, 180mm~ fans can be used in 200mm brackets found for cheap on eBay.
 
+#### Note: If 200mm fans are needed, 180mm fans can be used in 200mm brackets found for cheap on eBay.
 
+---
 
+## RGB Fans
 
-## RGB Fans:
-
-### 120mm:
+### 120mm RGB
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
@@ -119,7 +137,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Scythe Kaze Flex RGB        | FDB                         | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
 
 
-### 140mm:
+### 140mm RGB
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
@@ -129,7 +147,3 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Gelid Lyra                  | DBB                         | 100,000h @ 40°C               | 25mm                        | Airflow                     |
 | Noiseblocker ELOOP X ARGB   | NB-NanoSLI 2                | 120,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
 | Scythe Kaze Flex RGB        | FDB                         | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
-
-
-## Credits
-Thank you to users Ralicx, The Thonk, Drakefy, and Rafee for helping out with the bearings and some of the fans.
