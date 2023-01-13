@@ -6,4 +6,8 @@ Table of Contents # Basics ICs DDR5 ICs DDR4 ICs Architecture Specific Overclock
 Guides: # MemTestHelper DDR4 OC Guide # Stress Tests # y-cruncher # Run application and select &amp;ldquo;Component Stress Tester&amp;rdquo;. Disable all tests but N32, N64, VST - Then select &amp;ldquo;Start stress testing&amp;rdquo;. Run for 4 iterations. This is good at picking out errors that the main stress test may not., especially on Alderlake CPUs. TestMem5 # This is the best option for stressing DDR4 memory.
 Run and load the anta777 Extreme1 config, and make sure the application is running as admin for stressing memory.</description></item><item><title>Motherboards</title><link>/resources/motherboards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resources/motherboards/</guid><description>
 VRMs # VRM Basics</description></item><item><title>Processors</title><link>/resources/processors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resources/processors/</guid><description>
-Reviews: # https://www.techpowerup.com/review/?category=Processors</description></item></channel></rss>
+Table of Contents # Benchmarks Intel Microarchitecture Alderlake Skylake AMD Microarchitecture Zen4 Zen3 Zen2 Benchmarks: # https://www.techpowerup.com/review/?category=Processors
+Intel Microarchitecture # Alderlake # Alderlake Microarchitecture Explained
+Skylake # Skylate Microarchitecture Explained AMD Microarchitecture # Zen4 # Zen4 Microarchitecture Explained
+Zen3 # Zen3 Microarchitecture Explained
+Zen2 # Zen2 Microarchitecture Explained</description></item></channel></rss>
