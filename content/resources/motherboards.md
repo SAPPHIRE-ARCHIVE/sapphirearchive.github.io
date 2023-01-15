@@ -33,7 +33,7 @@ title: Motherboards
 | Z170    | Z170M OC Formula                                                     |
 | Z270    | Maximus IX Apex                                                      |
 | Z390    | Maximus XI Apex, Maximus XI Gene                                     |
-| Z490    | Maximus XII Apex, Z490 Unify ITX                                     |
+| Z490    | Maximus XII Apex, Z490 Dark Kingpin, Z490 Unify ITX                  |
 | Z590    | Maximus XIII Apex, Z590 Tachyon                                      |
 | Z690    | Z690 Apex, Z690 Dark Kingpin, Z690 Unify ITX                         |
 | Z790    | Z790 Apex, Z790 Edge ITX                                             |
