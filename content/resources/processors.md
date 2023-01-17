@@ -5,6 +5,7 @@ title: Processors
 ## Table of Contents
 
 - [Benchmarks](#benchmarks)
+- [Binning](#binning)
 - [Intel Microarchitecture](#intel-microarchitecture)
   - [Alderlake](#alderlake)
   - [Skylake](#skylake)
