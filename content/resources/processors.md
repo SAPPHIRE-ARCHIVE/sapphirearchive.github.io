@@ -22,6 +22,13 @@ title: Processors
 
 ---
 
+## Binning
+
+#### [Silicon Lottery Historical Binning Statistics](https://siliconlottery.com/pages/statistics)
+#### [Ivylake Batch Numbers](https://www.overclock.net/threads/is-there-a-good-i7-3770k-batch-number.1348988/page-8#post-19040372)
+
+---
+
 ## Intel Microarchitecture
 
 ### Alderlake
