@@ -6,6 +6,7 @@ title: Processors
 
 - [Benchmarks](#benchmarks)
 - [Binning](#binning)
+- [Overclocking](#overclocking)
 - [Intel Microarchitecture](#intel-microarchitecture)
   - [Alderlake](#alderlake)
   - [Skylake](#skylake)
@@ -27,6 +28,21 @@ title: Processors
 
 #### [Silicon Lottery Historical Binning Statistics](https://siliconlottery.com/pages/statistics)
 #### [Ivylake Batch Numbers](https://www.overclock.net/threads/is-there-a-good-i7-3770k-batch-number.1348988/page-8#post-19040372)
+
+---
+
+## Overclocking
+
+### Stress Tests
+
+#### [prime95](https://www.mersenne.org/download/)
+- Run application at small FFT AVX2 torture test for 1-2 hours to achieve maximum stability. 
+- If you're not bothered about being as stable as possible but just want very strong stability, run application at small FFT without AVX torture test for 1-2 hours.
+
+### Guides
+
+[Zen3 PBO Tuning](https://www.youtube.com/watch?v=dfkrp25dpQ0)
+[Zen4 PBO Tuning](https://www.youtube.com/watch?v=FaOYYHNGlLs)
 
 ---
 
