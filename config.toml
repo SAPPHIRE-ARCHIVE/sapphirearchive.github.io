@@ -67,7 +67,3 @@ enableRobotsTXT = true
         identifier = "resources"
         name = "Resources"
         url = "/resources"
-      [[languages.en.menu.main]]
-        identifier = "overclocking"
-        name = "Overclocking"
-        url = "/overclocking"
