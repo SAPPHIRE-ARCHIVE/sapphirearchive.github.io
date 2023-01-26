@@ -5,6 +5,8 @@ title: Motherboards
 ## Table of Contents
 
 - [VRMs](#vrms)
+  - [VRM Basics](#vrm-basics)
+  - [VRM Charts](#vrm-charts) 
 - [Best Overlocking Motherboards](#best-overclocking-motherboards)
   - [Intel Consumer Boards](#intel-consumer-boards)
 
@@ -12,7 +14,12 @@ title: Motherboards
 
 ## VRMs
 
+### Explanation
+
 #### [VRM Basics](https://www.tomshardware.com/reviews/vrm-voltage-regulator-module-definition,5771.html)
+#### [How VRMs Work](https://www.youtube.com/watch?v=oDRHV3qtSWc)
+
+### VRM Charts
 
 #### [Z690 & Z790 VRM Chart](https://docs.google.com/spreadsheets/d/1gQI4K-Wn7orr6m7tqCdy02Tbdpd4neXXRh_jXnMf2jY/edit#gid=1463929059)
 #### [LGA1200 VRM Chart](https://docs.google.com/spreadsheets/d/1yPS3hj_K7EPT4RBWCyjdKNP56pnwDz-IgBc0975-FUg/edit#gid=0)
