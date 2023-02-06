@@ -5,6 +5,7 @@ title: Graphics Cards
 ## Table of Contents
 
 - [Benchmarks](#benchmarks)
+- [Overclocking](#overclocking)
 
 ---
 
