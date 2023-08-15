@@ -4,7 +4,7 @@ This site is used for storing information, and benchmarks about hardware, and is
 
 If you have any suggestions or issues towards this site, just add my on Discord.
 
-#### Discord: Ozone#6539
+#### Discord: Ozone_3950
 
 #### [My HWBot Profile](https://hwbot.org/user/ozone_3950/)
 
